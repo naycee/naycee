@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there. I am new to the Git and GitHub environment.  I am looking forward to learning and collaborating with others.👋
 
 <!--
 **naycee/naycee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
